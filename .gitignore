@@ -1,1 +1,5 @@
 .DS_Store
+taximetro.log
+historial.csv
+.venv/
+.pytest_cache/
